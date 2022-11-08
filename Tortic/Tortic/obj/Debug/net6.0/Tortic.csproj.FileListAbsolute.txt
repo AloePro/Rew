@@ -1,0 +1,15 @@
+C:\Users\alang\source\repos\Tortic\Tortic\bin\Debug\net6.0\Tortic.exe
+C:\Users\alang\source\repos\Tortic\Tortic\bin\Debug\net6.0\Tortic.deps.json
+C:\Users\alang\source\repos\Tortic\Tortic\bin\Debug\net6.0\Tortic.runtimeconfig.json
+C:\Users\alang\source\repos\Tortic\Tortic\bin\Debug\net6.0\Tortic.dll
+C:\Users\alang\source\repos\Tortic\Tortic\bin\Debug\net6.0\Tortic.pdb
+C:\Users\alang\source\repos\Tortic\Tortic\obj\Debug\net6.0\Tortic.csproj.AssemblyReference.cache
+C:\Users\alang\source\repos\Tortic\Tortic\obj\Debug\net6.0\Tortic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alang\source\repos\Tortic\Tortic\obj\Debug\net6.0\Tortic.AssemblyInfoInputs.cache
+C:\Users\alang\source\repos\Tortic\Tortic\obj\Debug\net6.0\Tortic.AssemblyInfo.cs
+C:\Users\alang\source\repos\Tortic\Tortic\obj\Debug\net6.0\Tortic.csproj.CoreCompileInputs.cache
+C:\Users\alang\source\repos\Tortic\Tortic\obj\Debug\net6.0\Tortic.dll
+C:\Users\alang\source\repos\Tortic\Tortic\obj\Debug\net6.0\refint\Tortic.dll
+C:\Users\alang\source\repos\Tortic\Tortic\obj\Debug\net6.0\Tortic.pdb
+C:\Users\alang\source\repos\Tortic\Tortic\obj\Debug\net6.0\Tortic.genruntimeconfig.cache
+C:\Users\alang\source\repos\Tortic\Tortic\obj\Debug\net6.0\ref\Tortic.dll
